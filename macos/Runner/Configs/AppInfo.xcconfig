@@ -8,7 +8,7 @@
 PRODUCT_NAME = teste
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.teste
+PRODUCT_BUNDLE_IDENTIFIER = com.testebravo.teste
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2021 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2021 com.teste. All rights reserved.
